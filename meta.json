@@ -2,8 +2,9 @@
     "workflow_environment":"pyiron",
     "title": "pyiron workflow template",
     "authors": [
-        "author1 <email_address>",
-        "author2 <email_address>"
+        "Eduardo Mendive <mendive@mpie.de>",
+        "Omkar Hegde <hegde@mpie.de>",
+        "Sam <waseda@mpie.de>"
     ],
     "description": "description of what the workflow does",
     "release": "0.0.1",
