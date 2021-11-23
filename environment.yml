@@ -1,7 +1,12 @@
 channels:
 - conda-forge
 dependencies:
-- python
-- pyiron_atomistics =0.2.8
-- lammps =2021.02.10=*openmpi*_4
-- nglview =2.7.7
+- pyiron_base =0.3.10
+- matplotlib =3.5.0
+- h5io=0.1.2
+- numpy=1.21.3
+- pyiron =0.4.5
+- pyiron_atomistics =0.2.29
+- pyiron-data =0.0.17
+- nglview =3.0.3
+- sphinx =2.6.1
